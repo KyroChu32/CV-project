@@ -1,0 +1,4 @@
+timestamp,model_name,experiment_type,accuracy,precision,recall,f1,loss,additional_info
+2026-02-02 04:22:47,EfficientNetB2,Preprocessed,0.5760,0.5918,0.5760,0.5764,1.4235,N/A
+2026-02-02 05:04:38,EfficientNetB2,Raw,0.7167,0.7198,0.7167,0.7167,0.8575,N/A
+2026-02-02 05:08:35,EfficientNetB2,Preprocessed_on_Raw,0.7073,0.7357,0.7073,0.7094,1.0835,N/A
