@@ -1,4 +1,4 @@
 timestamp,model_name,experiment_type,accuracy,precision,recall,f1,loss,additional_info
 2026-02-02 05:52:35,CustomVGG_CNN,Preprocessed,0.4259,0.4417,0.3696,0.4025,1.5325,N/A
-2026-02-02 06:30:59,CustomVGG_CNN,Raw,0.2720,0.2741,0.2345,0.2528,1.7704,N/A
-2026-02-02 06:51:54,CustomVGG_CNN,Preprocessed_on_Raw,0.3377,0.3333,0.2946,0.3127,1.8107,N/A
+2026-02-02 06:30:59,CustomVGG_CNN,Preprocessed_on_Raw,0.2720,0.2741,0.2345,0.2528,1.7704,N/A
+2026-02-02 15:57:47,CustomVGG_CNN,Raw,0.4090,0.4540,0.2964,0.3587,1.4145,N/A
