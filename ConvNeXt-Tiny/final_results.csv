@@ -1,4 +1,4 @@
 timestamp,model_name,experiment_type,accuracy,precision,recall,f1,loss,additional_info
 2026-02-02 04:48:22,ConvNeXt-Tiny,Preprocessed,0.6548,0.6530,0.6548,0.6523,1.4358,N/A
 2026-02-02 05:21:45,ConvNeXt-Tiny,Raw,0.7636,0.7719,0.7636,0.7647,0.7135,N/A
-2026-02-02 08:23:10,ConvNeXt-Tiny,Preprocessed_on_Raw,0.7636,0.7719,0.7636,0.7647,0.7135,N/A
+2026-02-02 15:03:00,ConvNeXt-Tiny,Preprocessed_on_Raw,0.6735,0.7042,0.6735,0.6736,1.4087,N/A
